@@ -1,8 +1,6 @@
 # 🌤️ Weather App
 
 A simple and responsive **Real-Time Weather Application** built using HTML, CSS, and JavaScript. It fetches weather data from an external API and displays current weather conditions for any city entered by the user.
-
-
 ---
 
 ## 🌍 Features
