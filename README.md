@@ -11,7 +11,6 @@ A simple and responsive **Real-Time Weather Application** built using HTML, CSS,
 - 🌅 Displays **sunrise** and **sunset** times
 - 🌦️ Real-time weather data using **OpenWeatherMap API**
 - 📱 Mobile responsive and user-friendly UI
-
 ---
 
 ## 🚀 Technologies Used
