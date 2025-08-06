@@ -10,7 +10,7 @@ A simple and responsive **Real-Time Weather Application** built using HTML, CSS,
 - 🕒 Shows **current date and time**
 - 🌅 Displays **sunrise** and **sunset** times
 - 🌦️ Real-time weather data using **OpenWeatherMap API**
-- 📱 Mobile responsive and user-friendly UI
+- 📱 Mobile responsive and user-friendly UI 
 ---
 
 ## 🚀 Technologies Used
